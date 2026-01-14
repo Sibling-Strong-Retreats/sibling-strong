@@ -195,7 +195,7 @@ export default function StyleGuidePage() {
               <CardContent className="space-y-4">
                 <Button>Primary Button</Button>
                 <br />
-                <code className="text-sm">variant="default"</code>
+                <code className="text-sm">variant=&quot;default&quot;</code>
               </CardContent>
             </Card>
 
@@ -206,7 +206,7 @@ export default function StyleGuidePage() {
               <CardContent className="space-y-4">
                 <Button variant="outline">Outline Button</Button>
                 <br />
-                <code className="text-sm">variant="outline"</code>
+                <code className="text-sm">variant=&quot;outline&quot;</code>
               </CardContent>
             </Card>
 
@@ -217,7 +217,7 @@ export default function StyleGuidePage() {
               <CardContent className="space-y-4">
                 <Button variant="secondary">Secondary Button</Button>
                 <br />
-                <code className="text-sm">variant="secondary"</code>
+                <code className="text-sm">variant=&quot;secondary&quot;</code>
               </CardContent>
             </Card>
 
@@ -228,7 +228,7 @@ export default function StyleGuidePage() {
               <CardContent className="space-y-4">
                 <Button variant="ghost">Ghost Button</Button>
                 <br />
-                <code className="text-sm">variant="ghost"</code>
+                <code className="text-sm">variant=&quot;ghost&quot;</code>
               </CardContent>
             </Card>
 
@@ -239,7 +239,7 @@ export default function StyleGuidePage() {
               <CardContent className="space-y-4">
                 <Button variant="link">Link Button</Button>
                 <br />
-                <code className="text-sm">variant="link"</code>
+                <code className="text-sm">variant=&quot;link&quot;</code>
               </CardContent>
             </Card>
 
