@@ -10,7 +10,7 @@ export default function RetreatsPage() {
         {/* Hero Image */}
         <div className="max-w-5xl mx-auto mb-12 rounded-2xl overflow-hidden shadow-2xl">
           <img
-            src="/images/mountain-lake-sunrise.png"
+            src="/sibling-strong/images/mountain-lake-sunrise.png"
             alt="Peaceful mountain lake at sunrise"
             className="w-full h-auto"
           />
@@ -173,7 +173,7 @@ export default function RetreatsPage() {
         <div className="max-w-5xl mx-auto mb-20">
           <div className="rounded-2xl overflow-hidden shadow-2xl mb-8">
             <img
-              src="/images/group-mountain-vista.png"
+              src="/sibling-strong/images/group-mountain-vista.png"
               alt="Diverse group of people standing together overlooking mountains at sunset"
               className="w-full h-auto"
             />

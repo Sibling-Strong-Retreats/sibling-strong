@@ -8,7 +8,7 @@ export default function AboutPage() {
         {/* Hero Image */}
         <div className="max-w-4xl mx-auto mb-12 rounded-2xl overflow-hidden shadow-2xl">
           <img
-            src="/images/two-chairs-occupied.png"
+            src="/sibling-strong/images/two-chairs-occupied.png"
             alt="Two people sitting together facing mountain vista at sunset, representing sibling connection"
             className="w-full h-auto"
           />

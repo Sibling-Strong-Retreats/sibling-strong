@@ -9,7 +9,7 @@ export function Community() {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
             <div className="rounded-2xl overflow-hidden shadow-2xl">
               <img
-                src="/images/campfire-circle.png"
+                src="/sibling-strong/images/campfire-circle.png"
                 alt="Diverse group of people sitting around a campfire, supporting each other"
                 className="w-full h-auto"
               />

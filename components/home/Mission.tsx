@@ -19,7 +19,7 @@ export function Mission() {
             </div>
             <div className="order-1 lg:order-2 rounded-2xl overflow-hidden shadow-xl">
               <img
-                src="/images/forest-walk-together.png"
+                src="/sibling-strong/images/forest-walk-together.png"
                 alt="Two people walking together on a forest trail, representing sibling connection"
                 className="w-full h-auto"
               />
