@@ -5,7 +5,7 @@ import {
   CardTitle,
 } from "@/components/ui/card"
 import { Button } from "@/components/ui/button"
-import { Users, Video, Heart, Mountain, MessageCircle } from "lucide-react"
+import { Users, Video, Heart, Mountain, MessageCircle, Gift } from "lucide-react"
 
 // Replace with your actual Circle.so community URL
 const CIRCLE_COMMUNITY_URL = "https://YOUR-COMMUNITY.circle.so"
@@ -71,12 +71,16 @@ export function Features() {
             <h3 className="text-2xl font-bold mb-3">Join Our Community on Circle</h3>
             <p className="text-muted-foreground mb-6">
               Access weekly discussion groups, expert firesides, and connect with others who understand sibling loss.
+              Perfect for yourself or as a meaningful gift for someone you care about.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Button size="lg" asChild>
                 <a href={CIRCLE_COMMUNITY_URL} target="_blank" rel="noopener noreferrer">
                   Join Member Area
                 </a>
+              </Button>
+              <Button size="lg" variant="outline" asChild>
+                <a href="#gift-membership">Gift a Membership</a>
               </Button>
               <Button size="lg" variant="outline" asChild>
                 <a href="/contact">Learn More</a>
