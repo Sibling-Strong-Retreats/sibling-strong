@@ -5,7 +5,7 @@ import {
   CardTitle,
 } from "@/components/ui/card"
 import { Button } from "@/components/ui/button"
-import { Users, Video, Heart, Mountain, MessageCircle, Gift } from "lucide-react"
+import { Users, Video, Heart, Mountain, MessageCircle } from "lucide-react"
 
 // Replace with your actual Circle.so community URL
 const CIRCLE_COMMUNITY_URL = "https://YOUR-COMMUNITY.circle.so"
